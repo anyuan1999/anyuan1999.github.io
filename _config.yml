@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sang Anyuan (桑安源)"
-description              : "I am currently a while year PhD student at the School of Computer Science and Technology, Xi'an University of Electronic Science and Technology, supervised by Prof Li Yang. My current research interests focus on network security, including intrusion detection, traceability graphs, and graph representation learning.. "
+description              : "Ph.D Student"
 repository               : "anyuan1999.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Anyuan Sang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Xidian University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 

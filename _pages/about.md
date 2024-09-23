@@ -17,7 +17,7 @@ redirect_from:
 # 📝 Publications 
 
 - [Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior](https://anyuan1999.github.io), **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia and Lu Zhou , **RAID 2024, CCF-B, accept rate: 25%**
-- [Assessing Threats: Security Boundary and Side-channel Attack Detection in the Metaverse](https://anyuan1999.github.io), Yang, Ruiyuan; Li, Guohao; Yang, Li; Zhang, Hao; Wang, Jiangyu ; **Sang, Anyuan**, **ICDF2C 2024, CCF-B**
+- [Assessing Threats: Security Boundary and Side-channel Attack Detection in the Metaverse](https://anyuan1999.github.io), Yang, Ruiyuan; Li, Guohao; Yang, Li; Zhang, Hao; Wang, Jiangyu ; **Sang, Anyuan**, **ICDF2C 2024, CCF-C**
 
 # 🎖 Honors and Awards
 - *2024* 

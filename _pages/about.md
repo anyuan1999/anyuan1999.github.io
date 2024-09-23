@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a while year PhD student at the School of Computer Science and Technology, Xi'an University of Electronic Science and Technology, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security, including intrusion detection, provenance graphs, and graph representation learning.
+- I am currently a while year Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security, including intrusion detection, provenance graphs, and graph representation learning.
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024, CCF-B, accept rate: 25%). 
-- *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 15th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C 2024, CCF-C). 
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024). 
+- *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 15th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C 2024). 
 
 # 📝 Publications 
 
-- [Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior](https://anyuan1999.github.io), **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia and Lu Zhou , **RAID 2024**
-- [Assessing Threats: Security Boundary and Side-channel Attack Detection in the Metaverse](https://anyuan1999.github.io), Yang, Ruiyuan; Li, Guohao; Yang, Li; Zhang, Hao; Wang, Jiangyu ; **Sang, Anyuan**, **ICDF2C 2024**
+- [Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior](https://anyuan1999.github.io), **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia and Lu Zhou , **RAID 2024, CCF-B, accept rate: 25%**
+- [Assessing Threats: Security Boundary and Side-channel Attack Detection in the Metaverse](https://anyuan1999.github.io), Yang, Ruiyuan; Li, Guohao; Yang, Li; Zhang, Hao; Wang, Jiangyu ; **Sang, Anyuan**, **ICDF2C 2024, CCF-B**
 
 # 🎖 Honors and Awards
 - *2024* 

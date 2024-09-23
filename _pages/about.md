@@ -1,5 +1,5 @@
 
-
+- I am currently a while year PhD student at the School of Computer Science and Technology, Xi'an University of Electronic Science and Technology, supervised by Prof Li Yang. My current research interests focus on network security, including intrusion detection, traceability graphs, and graph representation learning.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024). 

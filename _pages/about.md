@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 - I am currently a while year PhD student at the School of Computer Science and Technology, Xi'an University of Electronic Science and Technology, supervised by Prof Li Yang. My current research interests focus on network security, including intrusion detection, traceability graphs, and graph representation learning.
 

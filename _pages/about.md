@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a while year Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security, including intrusion detection, provenance graphs, and graph representation learning.
+- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security, including intrusion detection, provenance graphs, and graph representation learning.
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024). 
@@ -19,16 +19,16 @@ redirect_from:
 
 - [Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior](https://dl.acm.org/doi/10.1145/3678890.3678916), **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia and Lu Zhou, **RAID 2024, CCF-B, accept rate: 25%**
 - [Assessing Threats: Security Boundary and Side-channel Attack Detection in the Metaverse](https://icdf2c.eai-conferences.org/2024/accepted_papers/), Yang, Ruiyuan; Li, Guohao; Yang, Li; Zhang, Hao; Wang, Jiangyu; **Sang, Anyuan**, **ICDF2C 2024, CCF-C**
-- [Hyper attack graph: Constructing a hypergraph for cyber threat intelligence analysis](https://www.sciencedirect.com/science/article/pii/S0167404824004991?via%3Dihub), Junbo Jia; Yuchen Wang; Yang, Li; **Sang, Anyuan**, **Computer & Security, CCF-B, JCR-1**
-- [STGAN: Detecting Host Threats via Fusion of Spatial-Temporal Features in Host Provenance Graphs](https://anyuan1999.github.io), **Anyuan Sang**, Xuezheng Fan, Li Yang, Yuchen Wang,  Lu Zhou, Junbo Jia and Huipeng Yang **ACM WWW, CCF-A, accept rate: 19%**
+- [Hyper attack graph: Constructing a hypergraph for cyber threat intelligence analysis](https://www.sciencedirect.com/science/article/pii/S0167404824004991?via%3Dihub), Junbo Jia; Yuchen Wang; Yang, Li; **Sang, Anyuan**, **Computer \& Security, CCF-B, JCR-1**
+- [STGAN: Detecting Host Threats via Fusion of Spatial-Temporal Features in Host Provenance Graphs](https://anyuan1999.github.io), **Anyuan Sang**, Xuezheng Fan, Li Yang, Yuchen Wang,  Lu Zhou, Junbo Jia and Huipeng Yang **ACM WWW 2025 (oral), CCF-A, accept rate: 19.8%**
 - 
 # 🎖 Honors and Awards
-- *2024* Outstanding Graduate Student！
-- *2024* Second Prize Academic Scholarship!
+- *2024* Outstanding Graduate Student.
+- *2024* Second Prize Academic Scholarship.
 
 # 🎖 Reviewer
 - ACM WWW 2025
-- Computer & Security
+- Computer \& Security
 - IEEE ICC 2025, 2024
 
 # 📖 Educations

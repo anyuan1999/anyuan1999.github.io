@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security, including intrusion detection, provenance graphs, and graph representation learning.
+- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on network security and software security including intrusion detection system, data provenance, malware detection, and graph representation learning. 
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted in the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024). 

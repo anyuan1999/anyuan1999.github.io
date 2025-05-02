@@ -14,9 +14,9 @@ redirect_from:
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024). 
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 15th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C 2024).
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted at the Computer & Security!. 
-- *2025.01*: &nbsp;🎉🎉 One paper has been accepted at the 2025 ACM Web Conference (WWW 2025)!.
+- *2025.01*: &nbsp;🎉🎉 One paper has been accepted at the 2025 ACM The Web Conference (WWW 2025)!.
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted at the IEEE Transactions on Industrial Informations (IEEE TII)!.
-- *2025.03*: &nbsp;🎉🎉 One paper has been accepted at the IEEE/ACM International Symposium on Quality of Service (IWQoS) 2025!. 
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted at the IEEE/ACM International Symposium on Quality of Service (IWQoS) 2025!. 
 # 📝 Publications 
 
 - [Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior](https://dl.acm.org/doi/10.1145/3678890.3678916), **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia and Lu Zhou, **RAID 2024, CCF-B, accept rate: 25%**

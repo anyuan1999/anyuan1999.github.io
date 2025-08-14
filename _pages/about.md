@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/). My current research interests focus on system security and software security including provenance-based intrusion detection systems, malware detection, large language model and graph representation learning. 
+- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/) and AP [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm). My current research interests focus on system security and software security including provenance-based intrusion detection systems, malware detection, large language model and graph representation learning. 
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)! 
@@ -17,6 +17,7 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted at the 2025 ACM The Web Conference (WWW 2025)!.
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted at the IEEE Transactions on Industrial Informations (IEEE TII)!.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted at the IEEE/ACM International Symposium on Quality of Service (IWQoS) 2025!.
+- *2025.08*: &nbsp;🎉🎉 One papers have been accepted at the IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)!.
 
 
 # 📝 Publications 
@@ -27,6 +28,8 @@ redirect_from:
 - [Generating Adversarial Malware Examples Against Multiple Machine Learning Detectors](https://ieeexplore.ieee.org/document/10969090), **Anyuan Sang**, Zhipeng Wang, Li Yang, Lu Zhou, Junbo Jia and Huipeng Yang **IEEE TII, SCI-1 TOP**
 - [Embedding More Knowledge: Strategic Graph Masking based Advanced Persistent Threats Detection](https://anyuan1999.github.io), Junbo Jia, Yang Li, Lu Zhou, **Anyuan Sang**, Huipeng Yang and Ao Wang. **IEEE IWQoS 2025, CCF-B**
 - [Remote Management Device Identification Based on Multimodal Feature Fusion](https://anyuan1999.github.io), Huipeng Yang, Yang Li, Lu Zhou, Yuchen Wang, Junbo Jia, **Anyuan Sang**, and Wenjie Sha. **IEEE IWQoS 2025 (Poster), CCF-B**
+- [Resist Dependency Explosion in Attack Investigation with Splittable Tag Propagation and Aggregation](https://anyuan1999.github.io), **Anyuan Sang**, Yuchen Wang, Junbo Jia, Yang Li, Pengbin Feng, Lu Zhou, and Jianfeng Ma. **IEEE TDSC, CCF-A**
+
 # 🎖 Honors and Awards
 - *2024* Outstanding Graduate Student.
 - *2024* Second Prize Academic Scholarship.
@@ -35,14 +38,13 @@ redirect_from:
 - ACM WWW 2025
 - Computer & Security
 - IEEE ICC 2025, 2024
+- AAAI 2026
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D student, Xidian University, Xi'an.
 - *2021.09 - 2023.9*, Master's program at Xidian University supervised by Prof Yang Li. 
 - *2017.09 - 2021.06*, Undergraduate, Xi'an University of Science and Technology, majoring in Internet of Things Engineering, and received my Bachelor's degree. 
 
-# 📖 Other supervisors
-- [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm), Associate Professor, Xidian University
 
 # 💬 Talks
 - *2024.10*, Padua, Italy, to attend and present at the RAID.

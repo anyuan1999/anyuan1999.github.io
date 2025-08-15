@@ -29,6 +29,7 @@ redirect_from:
 - [Embedding More Knowledge: Strategic Graph Masking based Advanced Persistent Threats Detection](https://anyuan1999.github.io), Junbo Jia, Yang Li, Lu Zhou, **Anyuan Sang**, Huipeng Yang and Ao Wang. **IEEE IWQoS 2025, CCF-B**
 - [Remote Management Device Identification Based on Multimodal Feature Fusion](https://anyuan1999.github.io), Huipeng Yang, Yang Li, Lu Zhou, Yuchen Wang, Junbo Jia, **Anyuan Sang**, and Wenjie Sha. **IEEE IWQoS 2025 (Poster), CCF-B**
 - [Resist Dependency Explosion in Attack Investigation with Splittable Tag Propagation and Aggregation](https://anyuan1999.github.io), **Anyuan Sang**, Yuchen Wang, Junbo Jia, Yang Li, Pengbin Feng, Lu Zhou, and Jianfeng Ma. **IEEE TDSC, CCF-A**
+- [MirGuard: Towards a Robust Provenance-based Intrusion Detection System Against Graph Manipulation Attacks](http://arxiv.org/abs/2508.10639),  **Anyuan Sang**, Lu Zhou, Li Yang, Junbo Jia, Huipeng Yang, Pengbin Feng and Jianfeng Ma. **Arxiv**
 
 # 🎖 Honors and Awards
 - *2024* Outstanding Graduate Student.

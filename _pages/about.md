@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/) and AP [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm). My current research interests focus on system security and software security including provenance-based intrusion detection systems, malware detection, large language model and graph representation learning. 
+- I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/) and AP [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm). My current research interests focus on system security and software security including provenance-based intrusion detection systems, malware detection, large language model and graph representation learning.
+
+# 🔥 News
+We are actively seeking visiting student on above fields (AI4Security)!  If you are interested, always feel free to contact me through [Mail](anyuan@stu.xidian.edu.cn) or [Wechat](18092432485).
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 One papers have been accepted at the IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)!.
@@ -18,8 +21,6 @@ redirect_from:
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted at the Computer & Security!. 
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)! 
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 15th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C 2024)!
-
-
 
 
 
@@ -39,7 +40,7 @@ redirect_from:
 - *2024* Outstanding Graduate Student.
 - *2024* Second Prize Academic Scholarship.
 - *2025* National Scholarship
-- *2025* Fundamental Research Project for Young Professional from NSFC
+- *2025* *Fundamental Research Project for Young Professional from NSFC*
 
 # 🎖 Reviewer
 - ACM WWW 2025 2026

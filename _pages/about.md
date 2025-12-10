@@ -11,13 +11,17 @@ redirect_from:
 - I am currently a Ph.D student at the School of Computer Science and Technology, Xidian University, supervised by Prof  [Li Yang](https://web.xidian.edu.cn/yangli/) and AP [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm). My current research interests focus on system security and software security including provenance-based intrusion detection systems, malware detection, large language model and graph representation learning. 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One papers have been accepted at the IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)!.
+- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted at the IEEE/ACM International Symposium on Quality of Service (IWQoS) 2025!.
+- *2025.03*: &nbsp;🎉🎉 One paper has been accepted at the IEEE Transactions on Industrial Informations (IEEE TII)!.
+- *2025.01*: &nbsp;🎉🎉 One paper has been accepted at the 2025 ACM The Web Conference (WWW 2025)!.
+- *2024.11*: &nbsp;🎉🎉 One paper has been accepted at the Computer & Security!. 
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)! 
 - *2024.06*: &nbsp;🎉🎉 One paper has been accepted at the 15th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C 2024)!
-- *2024.11*: &nbsp;🎉🎉 One paper has been accepted at the Computer & Security!. 
-- *2025.01*: &nbsp;🎉🎉 One paper has been accepted at the 2025 ACM The Web Conference (WWW 2025)!.
-- *2025.03*: &nbsp;🎉🎉 One paper has been accepted at the IEEE Transactions on Industrial Informations (IEEE TII)!.
-- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted at the IEEE/ACM International Symposium on Quality of Service (IWQoS) 2025!.
-- *2025.08*: &nbsp;🎉🎉 One papers have been accepted at the IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)!.
+
+
+
+
 
 
 # 📝 Publications 
@@ -34,9 +38,11 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024* Outstanding Graduate Student.
 - *2024* Second Prize Academic Scholarship.
+- *2025* National Scholarship
+- *2025* Fundamental Research Project for Young Professional from NSFC
 
 # 🎖 Reviewer
-- ACM WWW 2025
+- ACM WWW 2025 2026
 - Computer & Security
 - IEEE ICC 2025, 2024
 - AAAI 2026

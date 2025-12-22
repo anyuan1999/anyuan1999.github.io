@@ -24,7 +24,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 
 # 🔥 News
 
-* **[2025.12]** 🎉🎉 Our paper has been accepted by **FSE 2026 (CCF-A) SE Top 4 Conference**!
+* **[2025.12]** 🎉🎉 Our paper has been accepted by **FSE 2026 (CCF-A) SE big 4 Conference**!
 * **[2025.08]** 🎉🎉 One paper has been accepted by **IEEE TDSC (CCF-A)**!
 * **[2025.05]** 🎉🎉 Two papers have been accepted by **IEEE/ACM IWQoS 2025**!
 * **[2025.03]** 🎉🎉 One paper has been accepted by **IEEE TII (SCI-1 TOP)**!
@@ -38,7 +38,8 @@ My research interests focus on **System Security** and **Software Security**, wi
 # 📝 Publications 
 
 ### 2026
-* **[FSE '26]** **Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences** **Anyuan Sang**, Li Yang, Lu Zhou, Junbo Jia, Huipeng Yang.  
+* **[FSE '26]** **Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences** [[Link](https://anyuan1999.github.io)]  
+    **Anyuan Sang**, Li Yang, Lu Zhou, Junbo Jia, Huipeng Yang.  
     *ACM International Conference on the Foundations of Software Engineering (FSE 2026)*. **(CCF-A)**
 
 ### 2025

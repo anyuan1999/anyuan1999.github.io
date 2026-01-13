@@ -58,7 +58,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 
 * **[WWW '25]** **STGAN: Detecting Host Threats via Fusion of Spatial-Temporal Features in Host Provenance Graphs** [[Link](https://dl.acm.org/doi/10.1145/3696410.3714925)]  
     **Anyuan Sang**, Xuezheng Fan, Li Yang, Yuchen Wang, Lu Zhou, Junbo Jia, and Huipeng Yang.  
-    *The Web Conference 2025*. **(Oral, CCF-A, Accept Rate: 19.8%)**
+    *ACM The Web Conference 2025*. **(Oral, CCF-A, Accept Rate: 19.8%)**
 
 * **[IEEE TII]** **Generating Adversarial Malware Examples Against Multiple Machine Learning Detectors** [[Link](https://ieeexplore.ieee.org/document/10969090)]  
     **Anyuan Sang**, Zhipeng Wang, Li Yang, Lu Zhou, Junbo Jia, and Huipeng Yang.  
@@ -72,13 +72,10 @@ My research interests focus on **System Security** and **Software Security**, wi
     Huipeng Yang, Yang Li, Lu Zhou, Yuchen Wang, Junbo Jia, **Anyuan Sang**, and Wenjie Sha.  
     *IEEE/ACM International Symposium on Quality of Service*. **(Poster, CCF-B)**
 
-* **[Arxiv]** **MirGuard: Towards a Robust Provenance-based Intrusion Detection System Against Graph Manipulation Attacks** [[Link](http://arxiv.org/abs/2508.10639)]  
-    **Anyuan Sang**, Lu Zhou, Li Yang, Junbo Jia, Huipeng Yang, Pengbin Feng, and Jianfeng Ma.
-
 ### 2024
 * **[RAID '24]** **Obfuscating Provenance-Based Forensic Investigations with Mapping System Meta-Behavior** [[Link](https://dl.acm.org/doi/10.1145/3678890.3678916)]  
     **Anyuan Sang**, Yuchen Wang, Li Yang, Junbo Jia, and Lu Zhou.  
-    *International Symposium on Research in Attacks, Intrusions and Defenses*. **(CCF-B, Accept Rate: 25%)**
+    *ACM International Symposium on Research in Attacks, Intrusions and Defenses*. **(CCF-B, Accept Rate: 25%)**
 
 * **[Computers & Security]** **Hyper attack graph: Constructing a hypergraph for cyber threat intelligence analysis** [[Link](https://www.sciencedirect.com/science/article/pii/S0167404824004991?via%3Dihub)]  
     Junbo Jia, Yuchen Wang, Yang Li, and **Anyuan Sang**.  

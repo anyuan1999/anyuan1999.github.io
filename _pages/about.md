@@ -23,10 +23,10 @@ My research interests focus on **System Security** and **Software Security**, wi
 ---
 
 # 🔥 News
-
-* **[2026.1]** 🎉🎉 Our two papers has been accepted by **The Web Conference(WWW 2026, CCF-A)**!
+* **[2026.4]** 🎉🎉 I have been selected for the **Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划)!**
+* **[2026.1]** 🎉🎉 Our two papers has been accepted by **The Web Conference (WWW 2026, CCF-A)**!
 * **[2025.12]** 🎉🎉 Our paper has been accepted by **FSE 2026 (CCF-A) Software Engineering Big 4 Conference**!
-* **[2025.12]** 🎉🎉 I have received the **National Natural Science Foundation of China (NSFC)** doctoral student project funding! (300,000 CNY)
+* **[2025.12]** 🎉🎉 I have received the **National Natural Science Foundation of China (NSFC)，国家自然科学基金青年基金博士生项目** doctoral student project funding! (300,000 CNY)
 * **[2025.08]** 🎉🎉 One paper has been accepted by **IEEE TDSC (CCF-A)**!
 * **[2025.05]** 🎉🎉 Two papers have been accepted by **IEEE/ACM IWQoS 2025**!
 * **[2025.03]** 🎉🎉 One paper has been accepted by **IEEE TII (SCI-1 TOP)**!
@@ -46,10 +46,10 @@ My research interests focus on **System Security** and **Software Security**, wi
     *ACM International Conference on the Foundations of Software Engineering (FSE 2026)*. **(CCF-A, Direct Accept Rate: 9.5%)**
 * **[WWW '26]** **ProvGuard: Logic-Aware Multi-View Contrastive Learning for Robust and Efficient Host Threat Detection** [[Link](https://anyuan1999.github.io)]  
     **Anyuan Sang**, Li Yang, Lu Zhou, Cheng Zhou, Junbo Jia, Huipeng Yang.  
-    *ACM The Web Conference (WWW 2026)*. **(CCF-A, Accept Rate: 20.1%)**
+    *ACM The Web Conference (WWW 2026)*. **(Oral, CCF-A, Accept Rate: 20.1%)**
 * **[WWW '26]** **WebGeoInfer: Structure-Free Multi-Stage Framework for Geolocation Inference from Exposed Device Web Interfaces** [[Link](https://anyuan1999.github.io)]  
     Huipeng Yang, Li Yang, Lu Zhou, Lichuan Ma, Xinyue Wang, Junbo Jia, **Anyuan Sang**.  
-    *ACM The Web Conference (WWW 2026)*. **(CCF-A, Accept Rate: 20.1%)**
+    *ACM The Web Conference (WWW 2026)*. **(Oral, CCF-A, Accept Rate: 20.1%)**
 
 ### 2025
 * **[TDSC 2025]** **Resist Dependency Explosion in Attack Investigation with Splittable Tag Propagation and Aggregation** [[Link](https://anyuan1999.github.io)]  
@@ -100,10 +100,14 @@ My research interests focus on **System Security** and **Software Security**, wi
 **Conference Reviewer / PC Member:**
 * ACM The Web Conference (WWW) 2025, 2026
 * AAAI Conference on Artificial Intelligence (AAAI) 2026
-* IEEE International Conference on Communications (ICC) 2024, 2025,2026
+* IEEE International Conference on Communications (ICC) 2024, 2025, 2026
 
 **Journal Reviewer:**
+* IEEE Transactions on Information Forensics and Security (TDSC)
+* IEEE Transactions on Dependable and Secure Computing (TIFS)
+* IEEE Transactions on Industrial Informatics (TII)
 * Computers & Security
+* Artificial Intelligence Review
 
 ---
 

@@ -26,7 +26,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 * **[2026.4]** 🎉🎉 I have been selected for the **Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划)!**
 * **[2026.1]** 🎉🎉 Our two papers has been accepted by **The Web Conference (WWW 2026, CCF-A)**!
 * **[2025.12]** 🎉🎉 Our paper has been accepted by **FSE 2026 (CCF-A) Software Engineering Big 4 Conference**!
-* **[2025.12]** 🎉🎉 I have received the **National Natural Science Foundation of China (NSFC)，国家自然科学基金青年基金博士生项目** doctoral student project funding! (300,000 CNY)
+* **[2025.12]** 🎉🎉 I have received the **National Natural Science Foundation of China (NSFC)** doctoral student project funding (国家自然科学基金青年基金博士生项目)! (300,000 CNY)
 * **[2025.08]** 🎉🎉 One paper has been accepted by **IEEE TDSC (CCF-A)**!
 * **[2025.05]** 🎉🎉 Two papers have been accepted by **IEEE/ACM IWQoS 2025**!
 * **[2025.03]** 🎉🎉 One paper has been accepted by **IEEE TII (SCI-1 TOP)**!
@@ -103,8 +103,8 @@ My research interests focus on **System Security** and **Software Security**, wi
 * IEEE International Conference on Communications (ICC) 2024, 2025, 2026
 
 **Journal Reviewer:**
-* IEEE Transactions on Information Forensics and Security (TDSC)
-* IEEE Transactions on Dependable and Secure Computing (TIFS)
+* IEEE Transactions on Information Forensics and Security (TIFS)
+* IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Transactions on Industrial Informatics (TII)
 * Computers & Security
 * Artificial Intelligence Review
@@ -114,6 +114,10 @@ My research interests focus on **System Security** and **Software Security**, wi
 # 💬 Talks
 * *2025.05* - Presenting at **WWW 2025**, Sydney, Australia.
 * *2024.10* - Presenting at **RAID 2024**, Padua, Italy.
+---
+
+# 📖 Work Experience
+* *2026.05 - Present* - As an research intern in Keen Security Lab of Tencent, focus on EndPoint Security and AI Agent Security.
 
 ---
 

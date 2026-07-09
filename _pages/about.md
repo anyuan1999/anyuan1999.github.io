@@ -23,6 +23,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 ---
 
 # 🔥 News
+* **[2026.07]** 🎉🎉 One paper has been accepted by **IEEE TDSC (CCF-A)**!
 * **[2026.4]** 🎉🎉 I have been selected for the **Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划)!**
 * **[2026.1]** 🎉🎉 Our two papers has been accepted by **The Web Conference (WWW 2026, CCF-A)**!
 * **[2025.12]** 🎉🎉 Our paper has been accepted by **FSE 2026 (CCF-A) Software Engineering Big 4 Conference**!
@@ -41,6 +42,9 @@ My research interests focus on **System Security** and **Software Security**, wi
 
 ### 2026
 
+* **[TDSC '26]** **MambaTIG: Fast and Robust Encrypted Traffic Detection Leveraging Selective State-Space Masking** [[Link](https://anyuan1999.github.io)]  
+     Junbo Jia, Ao Wang, Yang Li, Lu Zhou, **Anyuan Sang**, and Huipeng Yang.  
+    *IEEE Transactions on Dependable and Secure Computing*. **(CCF-A)**
 * **[FSE '26]** **Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences** [[Link](https://anyuan1999.github.io)]  
     **Anyuan Sang**, Li Yang, Lu Zhou, Junbo Jia, Huipeng Yang.  
     *ACM International Conference on the Foundations of Software Engineering (FSE 2026)*. **(CCF-A, Direct Accept Rate: 9.5%)**

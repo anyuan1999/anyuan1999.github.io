@@ -132,7 +132,7 @@ I am currently a Ph.D. student at the School of Computer Science and Technology,
 
 # 📖 Education
 * **Ph.D.** in Computer Science and Technology, **Xidian University**, Xi'an, China.  
-    *Sept. 2023 - Present*
+    *Sept. 2023 - June 2027* (Supervised by Prof. Yang Li)
 * **M.S.** in Computer Science, **Xidian University**, Xi'an, China.  
     *Sept. 2021 - Sept. 2023* (Supervised by Prof. Yang Li)
 * **B.E.** in IoT Engineering, **Xi'an University of Science and Technology**, Xi'an, China.  

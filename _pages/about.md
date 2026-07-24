@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the School of Computer Science and Technology, **Xidian University**, supervised by Prof. [Li Yang](https://web.xidian.edu.cn/yangli/) and associate professor [Lu Zhou](https://faculty.xidian.edu.cn/ZHOULU/zh_CN/index.htm). 
-
-My research interests focus on **System Security** and **Software Security**, with specific topics including:
+I am currently a Ph.D. student at the School of Computer Science and Technology, **Xidian University**. My research interests focus on **System Security** and **Software Security**, with specific topics including:
 * Provenance-based Intrusion Detection Systems
 * Malware Detection & Adversarial Attacks
 * Large Language Models for Security
 * Graph Representation Learning
 
-<div style="background-color: #f3f6f9; padding: 15px; border-radius: 5px; border-left: 5px solid #2980b9;">
+<!-- <div style="background-color: #f3f6f9; padding: 15px; border-radius: 5px; border-left: 5px solid #2980b9;">
 <strong>📢 Open Position:</strong> We are actively recruiting visiting students (undergraduate and master's) in the field of <strong>AI4Security</strong>! If you are interested, feel free to contact me via email: <a href="mailto:anyuan@stu.xidian.edu.cn">anyuan@stu.xidian.edu.cn</a>.
-</div>
+</div> -->
 
 ---
 
 # 🔥 News
+* **[2026.07]** 🎉🎉 One paper has been accepted by **RAID 2026 (CCF-B)**!
 * **[2026.07]** 🎉🎉 One paper has been accepted by **IEEE TDSC (CCF-A)**!
 * **[2026.4]** 🎉🎉 I have been selected for the **Tencent Rhino-Bird Elite Training Program (腾讯犀牛鸟精英人才计划)!**
 * **[2026.1]** 🎉🎉 Our two papers has been accepted by **The Web Conference (WWW 2026, CCF-A)**!
@@ -42,9 +41,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 
 ### 2026
 
-* **[TDSC '26]** **MambaTIG: Fast and Robust Encrypted Traffic Detection Leveraging Selective State-Space Masking** [[Link](https://anyuan1999.github.io)]  
-     Junbo Jia, Ao Wang, Yang Li, Lu Zhou, **Anyuan Sang**, and Huipeng Yang.  
-    *IEEE Transactions on Dependable and Secure Computing*. **(CCF-A)**
+
 * **[FSE '26]** **Flash: Query-Efficient Black-Box Static Malware Evasion through Transferable GAN-Guided Modification Sequences** [[Link](https://anyuan1999.github.io)]  
     **Anyuan Sang**, Li Yang, Lu Zhou, Junbo Jia, Huipeng Yang.  
     *ACM International Conference on the Foundations of Software Engineering (FSE 2026)*. **(CCF-A, Direct Accept Rate: 9.5%)**
@@ -54,6 +51,12 @@ My research interests focus on **System Security** and **Software Security**, wi
 * **[WWW '26]** **WebGeoInfer: Structure-Free Multi-Stage Framework for Geolocation Inference from Exposed Device Web Interfaces** [[Link](https://anyuan1999.github.io)]  
     Huipeng Yang, Li Yang, Lu Zhou, Lichuan Ma, Xinyue Wang, Junbo Jia, **Anyuan Sang**.  
     *ACM The Web Conference (WWW 2026)*. **(Oral, CCF-A, Accept Rate: 20.1%)**
+* **[TDSC '26]** **MambaTIG: Fast and Robust Encrypted Traffic Detection Leveraging Selective State-Space Masking** [[Link](https://anyuan1999.github.io)]  
+     Junbo Jia, Ao Wang, Yang Li, Lu Zhou, **Anyuan Sang**, and Huipeng Yang.  
+    *IEEE Transactions on Dependable and Secure Computing*. **(CCF-A)**
+* **[RAID '26]** **Sometimes Less is More: A Minimalist Approach to Neighborhood-level Provenance-based Intrusion Detection** [[Link](https://anyuan1999.github.io)]  
+     Cheng Zhou , Guangxia Li, zhiwei Zhang, **Anyuan Sang**, Jiatong Li and Yulong Shen.  
+    *International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026).*. **(CCF-B)**
 
 ### 2025
 * **[TDSC 2025]** **Resist Dependency Explosion in Attack Investigation with Splittable Tag Propagation and Aggregation** [[Link](https://anyuan1999.github.io)]  
@@ -103,13 +106,14 @@ My research interests focus on **System Security** and **Software Security**, wi
 # 🧱 Professional Service
 **Conference Reviewer / PC Member:**
 * ACM The Web Conference (WWW) 2025, 2026
-* AAAI Conference on Artificial Intelligence (AAAI) 2026
+* AAAI Conference on Artificial Intelligence (AAAI) 2026, 2027
 * IEEE International Conference on Communications (ICC) 2024, 2025, 2026
 
 **Journal Reviewer:**
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE Transactions on Industrial Informatics (TII)
+* ESWA
 * Computers & Security
 * Artificial Intelligence Review
 
@@ -122,7 +126,7 @@ My research interests focus on **System Security** and **Software Security**, wi
 ---
 
 # 📖 Work Experience
-* *2026.05 - Present* - As an research intern in Keen Security Lab of Tencent, focus on EndPoint Security and AI Agent Security.
+* *2026.05 - Present* - As an research intern in Tencent Security Keen Lab, focus on EndPoint Security and AI Agent Security.
 
 ---
 
